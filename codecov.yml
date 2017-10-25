@@ -1,0 +1,2 @@
+codecov:
+  strict_yaml_branch: master  # only use the latest copy on master branch
